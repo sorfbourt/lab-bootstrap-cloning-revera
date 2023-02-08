@@ -1,0 +1,37 @@
+body{
+    /* background: red; */
+    font-size: 20px;
+}
+
+section{
+/* border: 1px solid black; */
+padding:20px;
+border-bottom: 5px solid #F96B61;
+}
+
+#latest-projects{
+    border-bottom: none;
+    }
+
+    #footer{
+        background-color:#3B3B3B;
+        color:gray;
+    }
+
+    #footer h3{
+        color:white;
+    }
+
+    #bottom-footer{
+        background-color:#292929;
+        color:white;
+        padding:20px;
+    }
+
+#three-column {
+    background-color:#ED564B;  
+  }
+
+  #three-column h2, #three-column p  {
+    color:#ffffff;  
+  }
